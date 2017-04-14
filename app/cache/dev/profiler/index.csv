@@ -1,0 +1,8 @@
+957c91,127.0.0.1,GET,http://nautic.dev/_fragment?_path=_format%3Dhtml%26_locale%3Den_US%26_controller%3DMauticCoreBundle%253ADefault%253Anotifications,1492186995,073c4f,200
+ebb6c0,127.0.0.1,GET,http://nautic.dev/_fragment?_path=_format%3Dhtml%26_locale%3Den_US%26_controller%3DMauticCoreBundle%253ADefault%253AglobalSearch,1492186995,073c4f,200
+073c4f,127.0.0.1,GET,http://nautic.dev/s/plugins,1492186995,,200
+5a3adc,127.0.0.1,GET,http://nautic.dev/s/list-something?_=1492186995689&mauticLastNotificationId=&mauticUserLastActive=1,1492186998,,200
+0db228,127.0.0.1,GET,http://nautic.dev/s/plugins?_=1492186995691&mauticLastNotificationId=&mauticUserLastActive=1,1492187010,,200
+edcb4e,127.0.0.1,GET,http://nautic.dev/s/plugins/info/MauticTestBundle?_=1492186995693&mauticLastNotificationId=&mauticUserLastActive=1,1492187013,,200
+5411a5,127.0.0.1,GET,http://nautic.dev/s/plugins/info/MauticTestBundle?_=1492186995695&mauticLastNotificationId=&mauticUserLastActive=1,1492187126,,200
+75434c,127.0.0.1,POST,http://nautic.dev/s/ajax?action=updateUserStatus&mauticLastNotificationId=&mauticUserLastActive=61,1492187278,,200
